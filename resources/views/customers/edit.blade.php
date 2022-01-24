@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <h1 class="flex justify-center" style="font-size: 30px; margin-top:10px;"><b>Create New User</b></h1><br>
+    <h1 class="flex justify-center" style="font-size: 30px; margin-top:10px;"><b>Edit User Details</b></h1><br>
     <div class="container flex justify-center mx-auto bg-white-400 h-500">
         <form method="post" action="/customers/{{ $customer->id }}"> 
             @method('PUT') 
