@@ -11,7 +11,7 @@
     <h1 class="flex justify-center" style="font-size: 40px"><b>List of Users</b></h1><br>
     <div class="container flex justify-center mx-auto">
         <div class="flex flex-col">
-        <a href="/customers/create" class="px-4 py-1 text-sm text-black text-center bg-yellow-400 rounded float-right mt-200px p-50px"><b>Add New Users</b></a><br>
+        <a href="/customers/create" class="px-4 py-1 text-sm text-black text-center w-36 bg-yellow-400 rounded float-right mt-200px p-50px"><b>Add New Users</b></a><br>
             <div class="w-full">
                 <div class="border-b border-gray-200 shadow">
                     <table>                       
